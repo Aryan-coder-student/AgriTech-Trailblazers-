@@ -2,4 +2,4 @@
 Lackcity Hackathon
 
 
-Deployed Link :- https://nj87pwxjf8yadappdqsuitg.streamlit.app
+Deployed Link :- https://agritech-trailblazers.streamlit.app/
